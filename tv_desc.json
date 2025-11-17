@@ -16,6 +16,5 @@
     {"actor_name": "李现", "role_name": "蒋长扬"}
   ],
   "duration": 60,
-  "language": "zh-CN",
-  "media_link": "https://example.com/tv_series/67890/episode_1/"
+  "language": "zh-CN"
 }
