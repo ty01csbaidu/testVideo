@@ -1,0 +1,21 @@
+{
+  "content_id": "tv_series_1_episode_01",
+  "content_type":"video",
+  "video_url": ["https://github.com/ty01csbaidu/testVideo/blob/main/%E9%94%A6%E7%BB%A3%E8%8A%B3%E5%8D%8E.mp4"],
+  "parent_content_id": "tv_series_1",
+  "sequence_index": 1,
+  "title": "锦绣芳华",
+  "director": "丁梓光",
+  "actors": ["杨紫", "李现"],
+  "first_air_date": "2025-6-17",
+  "douban_rating": 9,
+  "genres": ["剧情", "古装"],
+  "episode_summary": "继续上部《国色芳华》的故事，讲述了长安芳园之主何惟芳在万国来朝之时临危受命，于风雪中盛放牡丹，惊艳万邦使臣，尽显国色芳华，在与“花鸟使”蒋长扬的相知相守中，何惟芳逐渐懂得其匡扶社稷的报国丹心，彻悟商人大义后以商济世助其大业，蒋长扬助圣人暗中筹划数载，决意在“烧尾宴”上一举铲除宁王及其逆党的故事",
+  "actor_list": [
+    {"actor_name": "杨紫", "role_name": "何惟芳"},
+    {"actor_name": "李现", "role_name": "蒋长扬"}
+  ],
+  "duration": 60,
+  "language": "zh-CN",
+  "media_link": "https://example.com/tv_series/67890/episode_1/"
+}
